@@ -27,8 +27,6 @@
       }
     ],
     "connections": [
-      [ "pico:GP0", "$serialMonitor:RX", "", [] ],
-      [ "pico:GP1", "$serialMonitor:TX", "", [] ],
       [ "led1:C", "r1:1", "gray", [ "v0" ] ],
       [ "pico:GND.4", "r1:2", "black", [ "h0" ] ],
       [ "pico:GP11", "led1:A", "green", [ "h0" ] ]
