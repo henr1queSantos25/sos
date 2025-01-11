@@ -1,7 +1,7 @@
 
 # Projeto: Sinal SOS com LED usando Raspberry Pi Pico
 
-Este projeto implementa o envio do sinal SOS em código Morse utilizando um LED conectado ao pino GPIO 11 do Raspberry Pi Pico. O código foi desenvolvido em C utilizando a biblioteca pico/stdlib.h.
+Este projeto implementa o envio do sinal SOS em código Morse utilizando um LED conectado ao pino GPIO 11 do Raspberry Pi Pico. O código foi desenvolvido em C.
 
 O LED reproduz o sinal SOS repetidamente, seguindo as regras do código Morse. Cada ciclo do sinal SOS é separado por um intervalo de 3 segundos antes de reiniciar.
 
